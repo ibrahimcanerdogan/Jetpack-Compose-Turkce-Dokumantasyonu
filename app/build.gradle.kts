@@ -62,4 +62,10 @@ dependencies {
 
     // Compose Navigation
     implementation(libs.androidx.navigation.compose)
+
+    // Icons
+    implementation(libs.androidx.material.icons.core)
+    implementation(libs.androidx.material.icons.core.android)
+    implementation(libs.androidx.material.icons.extended)
+    implementation(libs.androidx.material.icons.extended.android)
 }
